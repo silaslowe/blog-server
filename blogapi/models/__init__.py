@@ -3,3 +3,4 @@ from .comment import Comment
 from .tag import Tag
 from .blog_comment import BlogComment
 from .blog_tag import BlogTag
+from .subscriber import Subscriber

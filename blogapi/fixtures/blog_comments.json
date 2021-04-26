@@ -1,0 +1,34 @@
+[
+    {
+        "model": "blogapi.blogcomment",
+        "pk": 1,
+        "fields": {
+            "blog": 1,
+            "comment": 1
+        }
+    },
+    {
+        "model": "blogapi.blogcomment",
+        "pk": 2,
+        "fields": {
+            "blog": 1,
+            "comment": 2
+        }
+    },
+    {
+        "model": "blogapi.blogcomment",
+        "pk": 3,
+        "fields": {
+            "blog": 1,
+            "comment": 3
+        }
+    },
+    {
+        "model": "blogapi.blogcomment",
+        "pk": 4,
+        "fields": {
+            "blog": 2,
+            "comment": 4
+        }
+    }
+]

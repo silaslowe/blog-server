@@ -1,0 +1,13 @@
+[
+    {
+        "model": "blogapi.subscriber",
+        "pk": 1,
+        "fields": {
+            "name" : "Tommy Talisman",
+            "email" : "tommy@tali.com",
+            "subscription_date" : "2020-011-03T03:53:00", 
+            "city" : "Jersy City",
+            "state" : "FL"
+        }
+    }
+]

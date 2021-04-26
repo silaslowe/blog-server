@@ -1,0 +1,42 @@
+[
+    {
+        "model": "blogapi.comment",
+        "pk": 1,
+        "fields": {
+            "comment_body": "This a great post",
+            "comment_date": "2020-010-01T04:23:00",
+            "comment_author": "Big Jim",
+            "comment_approved": false
+        }
+    },
+    {
+        "model": "blogapi.comment",
+        "pk": 2,
+        "fields": {
+            "comment_body": "This a sad post",
+            "comment_date": "2020-011-03T04:53:00",
+            "comment_author": "Sop dave",
+            "comment_approved": false
+        }
+    },
+    {
+        "model": "blogapi.comment",
+        "pk": 3,
+        "fields": {
+            "comment_body": "This a blog post",
+            "comment_date": "2020-011-03T03:53:00",
+            "comment_author": "Sop dave",
+            "comment_approved": false
+        }
+    },
+    {
+        "model": "blogapi.comment",
+        "pk": 4,
+        "fields": {
+            "comment_body": "This a post",
+    "comment_date": "2020-09-01T05:13:00",
+    "comment_author": "Big Jim",
+    "comment_approved": false
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "model": "blogapi.tag",
+        "pk": 1,
+        "fields": {
+            "tag_title": "Javascript"
+        }
+    },
+    {
+        "model": "blogapi.tag",
+        "pk": 2,
+        "fields": {
+            "tag_title": "Big O Notation"
+        }
+    },
+    {
+        "model": "blogapi.tag",
+        "pk": 3,
+        "fields": {
+            "tag_title": "Beginners mind"
+        }
+    }
+]
